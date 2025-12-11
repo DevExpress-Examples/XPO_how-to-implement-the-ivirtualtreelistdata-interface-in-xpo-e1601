@@ -7,8 +7,8 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/Q212620/Form1.cs) (VB: [Form1.vb](./VB/Q212620/Form1.vb))
-* [Northwind.cs](./CS/Q212620/Northwind.cs) (VB: [Northwind.vb](./VB/Q212620/Northwind.vb))
+* [Form1.cs](./CS/IVirtualTreeListData-Interface/Form1.cs)
+* [Northwind.cs](./CS/IVirtualTreeListData-Interface/Northwind.cs)
 <!-- default file list end -->
 # How to implement the IVirtualTreeListData interface in XPO
 
@@ -25,3 +25,4 @@
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
